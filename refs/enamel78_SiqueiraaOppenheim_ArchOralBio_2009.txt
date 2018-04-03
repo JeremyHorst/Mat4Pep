@@ -1,0 +1,138 @@
+# Siqueiraa WL & Oppenheim FG
+#Accession number1	Protein name	Peptide identified (sequence domain within parent protein)	MW (Da)	pI	Protein region	Times identified
+P02810	Salivary acidic proline-rich phosphoprotein 1/2	
+		F.IDEERQGPPLG.G (42Ð52)a,b	1211.3	3.8	N-terminal/Middle	2
+		F.IDEERQGPPLGGQQ.S ? (42Ð55)a,b	1524.6	3.8	N-terminal/Middle	3
+		F.IDEERQGPPLGGQQSQPS.A (42Ð56)b	1924.0	3.8	N-terminal/Middle	2
+		G.GQQQQGPPPPQGKPQ.G (78Ð92)a,b	1572.7	10.1	Middle	3
+		G.PQQGPPQQGGQQQQGPPPPQG.K (53Ð73)a,b	2137.3	6.0	Middle	3
+		K.PQGPPPQGGRPQGPPQ.G (130Ð145)a,b	1595.7	11.0	C-terminal	3
+		N.QDDGPQQGPPQQGGQQQQGPPPPQGKP.Q (49Ð75)a,b	2777.9	3.9	N-terminal/Middle	4
+		P.PPGKPQGPPPQGGR.P (126Ð139)a,b	1370.5	11.5	C-terminal	4
+		Q.DDGPQQGPPQQGGQQQQGPPPPQGKPQ.G (50Ð76)a,b	2777.9	3.9	N-terminal/Middle	3
+		Q.GGRPQGPPQGQSPQ.-(137Ð150)a,b	1391.5	11.0	C-terminal	4
+		Q.GPPPPPPGKPQGPPPQ.G (121Ð135)a,b	1545.8	10.1	C-terminal	3
+		Q.GPPPPPPGKPQGPPPQGGRPQGPPQGQSPQ.-(121Ð150)b	2918.2	11.5	C-terminal	2
+		Q.GPPQQGGHQQGPPPPPPGKPQ.G (111Ð131) ? ?a,b	2084.3	10.5	C-terminal	4
+
+P02812	Basic salivary proline-rich protein 2	
+		K.PQGPPPQGGNKPQGPPPPGK.P (23Ð43)a,b	2810.1	10.6	N-terminal	3
+		G.GNQPQGPPPPPGKPQ.G (278Ð292)a,b	1496.7	10.1	C-terminal	3
+		K.PQGPPPQGGNKPQGPPPPGK.P (167Ð186)a,b	1933.2	10.6	C-terminal	3
+		K.PQGPPPQGGNKPQGPPPPGKPQGPPPQGDK.S (167Ð196)a	2935.2	10.3	N-terminal	2
+		K.PQGPPPQGGNQPQGPPPPPGKPQ.G (84Ð106)a,b	2255.5	10.1	N-terminal	3
+		P.GKPQGPPPQGGNQPQGPPPPPGKPQG.P*(227Ð251)b	2497.8	10.6	C-terminal	2
+		Q.GPPPQGGNKPQGPPPPGKPQ.G (107Ð126)a,b	1922.2	10.6	N-terminal	3
+		Q.GPPPQGGNQPQGPPPPPGKPQ.G (147Ð168)a,b	2030.2	10.1	C-terminal	4
+		Q.GPPPQGGNQPQGPPPPPGKPQGPPPQGGNKPQ.G (147Ð179)a,b	3088.4	10.6	C-terminal	3
+
+P02808	Statherin	
+		F.GYGYGPYQPVPE.Q ? (15Ð26)a,b	1326.4	3.3	Middle	3
+		-.DSSEEKFLR.R (1Ð9)a,b	1110.2	4.4	N-terminal	2
+		R.IGRFGYGYGPYQPVPEQP.L (11Ð28)a,b	2025.2	6.8	N-terminal/Middle	3
+		R.RIGRFGYGYGPYQPVPEQPLYPQPYQPQYQQYT.F (11Ð42)a,b	3981.4	9.1	N-terminal/Middle/C-terminal	3
+		Y.GPYQPVPEQPLYPQPYQPQ.Y ? (19Ð37)a,b	2226.4	3.3	Middle/C-terminal	
+
+P04745	Alpha-amylase A1(salivary)	
+		R.SGNEDEFR.N (88Ð95)a,b	953.9	3.8	N-terminal	4
+		R.ALVFVDNHDNQR.G (307Ð318)b	1428.5	5.1	Middle	2
+		F.IYQEVIDLGGEPIK.S (245Ð258)a,b	1574.8	3.8	Middle	3
+		K.AHFSISNSAEDPFIAI.H (490Ð505)a,b	1719.9	4.1	C-terminal	4
+		K.TGSGDIENYNDATQVR.D (158Ð173)a,b	1740.8	3.7	N-terminal	3
+
+Q9hcy8	S100 calcium binding protein a14	
+		K.NFHQYSVEGG.K (28Ð37)a,b	1137.1	5.1	N-terminal	3
+		S.FWELIGEAAK.S (84Ð93)a,b	1163.3	4.3	C-terminal	3
+		F.RSFWELIGEAAKSVKLE.R (82Ð98)a,b	1963.2	7.2	C-terminal	2
+		A.QEFSDVERAIETLI.K (13Ð26)a,b	1649.8	3.7	N-terminal	4
+		K.IANLGSCNDSKL.E (68Ð78)a,b	1234.3	6.1	Middle/C-terminal	3
+
+P04083	Annexin A1	
+		F.IENEEQEYVQTVK.S (14Ð26)a,b	1608.7	3.8	N-terminal	4
+		K.TPAQFDADELR.A (114Ð124)a,b	1262.3	3.7	Middle	3
+		W.FIENEEQEYVQTVK.S (13Ð26)a,b	1755.9	3.8	N-terminal	3
+
+Q9UBG3	Corunlin	
+		R.TEGNCTALTRGE.L (21Ð32)a,b	1251.3	4.3	N-terminal	4
+		E.GNCTALTRGELKR.L (23Ð35)a,b	1418.6	10.1	N-terminal	3
+		R.EQGQTQTQPGS.G (373Ð383)a,b	1160.1	12.4	C-terminal	4
+
+P01040	Cystatin a	
+		E.KTNETYGKLE.A (30Ð39)a,b	1182.3	7.0	Middle	4
+		E.TYGKLEAVQY.K (34Ð43)a,b	1171.3	6.8	N-terminal/Middle	2
+		K.SLPGQNEDLVLTG.Y (72Ð84)a,b	1342.4	3.0	C-terminal	3
+
+P04280	Basic salivary proline-rich protein 1	
+		A.GNPQGPSPQGGNKPQ.G (18Ð32) ?a,b	1462.5	10.1	N-terminal	3
+		Q.GPPQQGGNRPQGPPPPGKPQ.G (226Ð245) ?b	1991.2	11.5	Middle/C-terminal	3
+		A.GNPQGPSPQGGNKPQGPPPPPGKPQ.G (18Ð48) ?b	2415.6	10.6	N-terminal	4
+
+P08779	Cytokeratin-16	
+		R.EVFTSSSSSSSRQ.T (442Ð454)a,b	1388.4	7.0	C-terminal	3
+
+P15515	Histatin-1	
+		F.YGDYGSNYLYDN.-? (27Ð38)a,b	1443.4	2.9	Middle/C-terminal	3
+		Y.GDYGSNYLYDN.-? ? (28Ð38)a,b	1280.2	2.9	C-terminal	4
+
+Q96QV6	Histone H2A type 1-A	
+		I.AQGGVLPNIQAV.L (104Ð115)b	1166.3	6.0	C-terminal	2
+		V.TIAQGGVLPNIQAV.L (102Ð115)a,b	1380.6	6.0	C-terminal	4
+
+Q9HC84	Mucin-5B	
+		L.SSPSPAPGCDNAIP.L (4940Ð4953)a,b	1312.4	3.1	C-terminal	2
+		R.AQAQPGVP.L (2362Ð2369)a	766.9	6.0	C-terminal	2
+
+P62736	Actin, aortic smooth muscle	
+		Y.VGDEAQSKRGILTL.K (56Ð69)a,b	1487.7	7.0	N-terminal	3
+		T.AASSSSLEKSYELPDGQVI.T (232Ð250)a	1982.1	3.8	N-terminal	2
+
+P06733	Alpha-enolase	
+		A.NGWGVMVSH.R (363Ð371)a,b	986.1	7.8	C-terminal	4
+		R.SERLAKYNQLLRIEEE.L (401Ð416)a,b	1991.2	4.7	C-terminal	3
+
+P06702	Protein S100-A9	
+		Y.SVKLGHPDTLNQGEFKEL.V (23Ð40)a,b	2013.2	5.3	N-terminal/Middle	3
+		V.KLGHPDTLNQGEF.K (25Ð37)a,b	1456.6	5.2	N-terminal/Middle	3
+
+Q01546	Cytokeratin-2P	
+		R.GVFGGVSGSGSGGYK.G (524Ð538)a,b	1316.4	9.7	C-terminal	4
+		K.SGGGGSTSIRFSQTTSSSQHSSTK.- (615Ð638)a,b	2373.4	11.5	C-terminal	4
+
+P02768	Serum albumin	
+		K.PLVEEPQNLIK.Q (403Ð413)a,b	1279.5	4.3	Middle/C-terminal	3
+		K.AVMDDFAAFVEK.C (570Ð581)b	1342.5	3.7	C-terminal	2
+
+P04406	Glyceraldehyde-3-phosphate dehydrogenase	
+		A.SEGPLKGILGY.T (266Ð276)a,b	1133.3	6.9	C-terminal	4
+		V.SSDFNSDTHSSTF.D (283Ð295)a,b	1431.3	3.9	C-terminal	3
+
+P02647	Apolipoprotein A-I	
+		L.REQLGPVTQEF.W (85Ð95)a,b	1304.4	4.3	N-terminal/Middle	3
+
+P02788	Lactotransferrin	
+		R.ESTVFEDLSDEAER.D (230Ð243)a,b	1626.6	3.4	N-terminal	3
+
+P20671	Histone H2A type 1-D	
+		I.RNDEELNKLLGKVTIA.Q (89Ð104)b	1814.1	7.1	Middle/C-terminal	2
+
+P01833	Polymeric-immunoglobulin receptor	
+		R.ASVDSGSSEEQGGSSRAL.V (623Ð640)a,b	1724.7	3.8	C-terminal	4
+
+P31151	S100 calcium-binding protein A7	
+		Y.HKQSHGAAPCSGGS.Q (87Ð100)a,b	1323.4	9.0	C-terminal	3
+
+P47929	Galectin-7	
+		V.GGDVQLDSVRIF.- (125Ð136)b	1305.5	3.9	C-terminal	2
+
+P30044	Peroxiredoxin-5	
+		M.APIKVGDAIPAVEV.F (54Ð67)a	1378.6	4.1	N-terminal/Middle	2
+
+P04080	Cystatin B	
+		Y.QTNKAKHDELTYF.- (86Ð98)a,b	1594.7	7.7	C-terminal	3
+
+P01036	Cystatin-S	
+		Y.EVPWEDRMSLVN.S (124Ð135)a,b	1474.7	3.8	C-terminal	3
+
+P05164	Myeloperoxidase	
+		R.DFVNCSTLPALNLASW.R (726Ð741)a,b	1751.1	3.1	C-terminal
+
