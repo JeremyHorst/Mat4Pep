@@ -1,5 +1,5 @@
 # Mat4Pep
-# Pellitrix
+
 Machine learning tool for functional peptide sets
 
 by Jeremy Horst
